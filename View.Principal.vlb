@@ -1,0 +1,27 @@
+﻿[]
+Coordinates=10,10,41,51
+Visible=True
+ExplicitSubNodes=Parent.StyleName;StyleName
+LayerNames=style
+
+[pnlPrincipal]
+Coordinates=112,10,73,51
+
+[CollectionBtns]
+Coordinates=296,53,87,33
+
+[pnl1]
+Coordinates=195,10,41,51
+
+[img1]
+Coordinates=107,71,40,51
+
+[pnl2]
+Coordinates=61,10,41,51
+
+[VirtualImage1]
+Coordinates=207,71,81,33
+
+[Module Settings]
+ModelLayerNames=style
+

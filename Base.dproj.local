@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/31 16:38:01.000.821,=C:\Users\Luccas\Desktop\estudo delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/31 17:23:25.000.599,=C:\Users\Luccas\Desktop\estudo delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/31 17:53:30.000.267,=C:\Users\Luccas\Desktop\estudo delphi\Unit1.pas</Transaction>
+    <Transaction>2025/01/18 08:39:45.000.260,=C:\Users\Luccas\Desktop\estudo delphi\Unit1.pas</Transaction>
+    <Transaction>2025/01/25 21:52:01.000.559,=C:\Users\Luccas\Desktop\estudo delphi\Unit1.pas</Transaction>
+    <Transaction>2025/01/25 21:59:43.000.733,C:\Users\Luccas\Desktop\estudo delphi\Unit1.pas=C:\Users\Luccas\Desktop\Bases\View.Principal.pas</Transaction>
+    <Transaction>2025/01/25 21:59:43.000.733,C:\Users\Luccas\Desktop\estudo delphi\Unit1.dfm=C:\Users\Luccas\Desktop\Bases\View.Principal.dfm</Transaction>
+    <Transaction>2025/01/25 21:59:48.000.096,C:\Users\Luccas\Desktop\estudo delphi\Project2.dproj=C:\Users\Luccas\Desktop\Bases\Base.dproj</Transaction>
+    <Transaction>2025/01/26 15:34:22.000.675,=C:\Users\Luccas\Desktop\Bases\Unit2.pas</Transaction>
+    <Transaction>2025/01/26 15:35:10.000.690,C:\Users\Luccas\Desktop\Bases\Unit2.pas=C:\Users\Luccas\Desktop\Bases\View.Menu.pas</Transaction>
+    <Transaction>2025/01/26 15:35:10.000.690,C:\Users\Luccas\Desktop\Bases\Unit2.dfm=C:\Users\Luccas\Desktop\Bases\View.Menu.dfm</Transaction>
+    <Transaction>2025/01/26 15:47:13.000.875,=C:\Users\Luccas\Desktop\Bases\Unit3.pas</Transaction>
+    <Transaction>2025/01/26 15:47:58.000.193,C:\Users\Luccas\Desktop\Bases\Unit3.dfm=C:\Users\Luccas\Desktop\Bases\View.Cliente.dfm</Transaction>
+    <Transaction>2025/01/26 15:47:58.000.193,C:\Users\Luccas\Desktop\Bases\Unit3.pas=C:\Users\Luccas\Desktop\Bases\View.Cliente.pas</Transaction>
+    <Transaction>2025/01/26 15:56:11.000.322,=C:\Users\Luccas\Desktop\Bases\Unit4.pas</Transaction>
+    <Transaction>2025/01/26 15:56:31.000.033,C:\Users\Luccas\Desktop\Bases\Unit4.pas=C:\Users\Luccas\Desktop\Bases\View.Protudos.pas</Transaction>
+    <Transaction>2025/01/26 15:56:31.000.033,C:\Users\Luccas\Desktop\Bases\Unit4.dfm=C:\Users\Luccas\Desktop\Bases\View.Protudos.dfm</Transaction>
+    <Transaction>2025/01/26 15:56:41.000.249,C:\Users\Luccas\Desktop\Bases\View.Protudos.dfm=C:\Users\Luccas\Desktop\Bases\View.Produtos.dfm</Transaction>
+    <Transaction>2025/01/26 15:56:41.000.249,C:\Users\Luccas\Desktop\Bases\View.Protudos.pas=C:\Users\Luccas\Desktop\Bases\View.Produtos.pas</Transaction>
+    <Transaction>2025/01/26 16:04:26.000.764,C:\Users\Luccas\Desktop\Bases\View.Produtos.dfm=C:\Users\Luccas\Desktop\Bases\View.Heranca.Base.dfm</Transaction>
+    <Transaction>2025/01/26 16:04:26.000.764,C:\Users\Luccas\Desktop\Bases\View.Produtos.pas=C:\Users\Luccas\Desktop\Bases\View.Heranca.Base.pas</Transaction>
+    <Transaction>2025/01/26 16:05:04.000.509,C:\Users\Luccas\Desktop\Bases\View.Cliente.pas=</Transaction>
+    <Transaction>2025/01/27 00:02:25.877,=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:03:16.842,C:\Users\Luccas\Desktop\Bases\Controller\Menus.Controller.ListBox.Itens.Factory.pas=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:04:52.348,=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:05:14.518,C:\Users\Luccas\Desktop\Bases\Controller\Menus.Controller.Interfaces.pas=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:09:18.879,=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:09:36.025,C:\Users\Luccas\Desktop\Bases\Controller\Menus.Controller.ListBox.Factory.pas=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:30:22.324,=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 00:31:23.301,C:\Users\Luccas\Desktop\Bases\Controller\Menus.Controller.ListBox.Itens.Default.pas=C:\Users\Luccas\Desktop\Bases\Unit1.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>AppStore</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Controller"/>
+    <File Path="Controller\Menus.Controller.ListBox.Itens.Factory.pas"/>
+    <File Path="Controller\Menus.Controller.Interfaces.pas"/>
+    <File Path="Controller\Menus.Controller.ListBox.Factory.pas"/>
+    <File Path="Controller\Menus.Controller.ListBox.Itens.Default.pas"/>
+    <File Path="View.Heranca.Base.pas"/>
+    <File Path="View.Heranca.Base.dfm"/>
+    <File Path="View.Menu.pas"/>
+    <File Path="View.Menu.dfm"/>
+    <File Path="View.Principal.pas"/>
+    <File Path="View.Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
